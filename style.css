@@ -1,0 +1,39 @@
+body{
+  background-color: black;
+}
+.frame {
+    position:relative;
+    height: 500px;
+    width: 400px;
+    border-radius: 5%;
+    background-color: grey;
+    top: 5px;
+    left: 250px;
+}
+.title{
+  font-size: 60px;
+  text-align:center;
+  background-color:#00bbaa;
+  }
+.fnum{
+  background-color: white;
+}
+.snum{
+  background-color:white;
+}
+.result{
+  background-color:white;
+  position:relative;
+  width:100px;
+  left:140px;
+  
+}
+.answer{
+  position:relative;
+  left:160px;      
+}
+.symbol{
+  position:relative;
+  left:120px;
+  
+}
